@@ -16,7 +16,7 @@ Il NE doit PAS être modifié à la main.
 
 ## Vue d’ensemble
 
-Ceci est une fausse description des fonctionalités de l'app
+MiroTalk WebRTC est une technologie de communication en temps réel qui permet la communication audio et vidéo sur Internet via des navigateurs Web sans avoir besoin de plug-ins supplémentaires ou d'installations de logiciels. Elle se distingue comme un composant essentiel de nombreuses plateformes de visioconférence et de communication basées sur le Web.
 
 
 **Version incluse :** 2024.10.28~ynh1
