@@ -3,7 +3,6 @@
 source ../settings/scripts/_common.sh
 source /usr/share/yunohost/helpers
 
-
 #=================================================
 # REINSTALL DEPENDENCIES
 #=================================================
