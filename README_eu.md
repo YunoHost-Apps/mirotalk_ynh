@@ -5,7 +5,9 @@ EZ editatu eskuz.
 
 # MiroTalk YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/mirotalk.svg)](https://ci-apps.yunohost.org/ci/apps/mirotalk/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/mirotalk.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/mirotalk.maintain.svg)
+[![Integrazio maila](https://apps.yunohost.org/badge/integration/mirotalk)](https://ci-apps.yunohost.org/ci/apps/mirotalk/)
+![Funtzionamendu egoera](https://apps.yunohost.org/badge/state/mirotalk)
+![Mantentze egoera](https://apps.yunohost.org/badge/maintained/mirotalk)
 
 [![Instalatu MiroTalk YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=mirotalk)
 
@@ -19,7 +21,7 @@ EZ editatu eskuz.
 MiroTalk WebRTC is a real-time communication technology that enables audio and video communication over the internet through web browsers without the need for additional plugins or software installations. It stands out as a core component of many web-based video conferencing and communication platforms.
 
 
-**Paketatutako bertsioa:** 2024.11.10~ynh1
+**Paketatutako bertsioa:** 2024.11.23~ynh1
 
 **Demoa:** <https://meet.no42.org/>
 

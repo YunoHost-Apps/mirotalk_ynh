@@ -5,7 +5,9 @@
 
 # YunoHost 上的 MiroTalk
 
-[![集成程度](https://dash.yunohost.org/integration/mirotalk.svg)](https://ci-apps.yunohost.org/ci/apps/mirotalk/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/mirotalk.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/mirotalk.maintain.svg)
+[![集成程度](https://apps.yunohost.org/badge/integration/mirotalk)](https://ci-apps.yunohost.org/ci/apps/mirotalk/)
+![工作状态](https://apps.yunohost.org/badge/state/mirotalk)
+![维护状态](https://apps.yunohost.org/badge/maintained/mirotalk)
 
 [![使用 YunoHost 安装 MiroTalk](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=mirotalk)
 
@@ -19,7 +21,7 @@
 MiroTalk WebRTC is a real-time communication technology that enables audio and video communication over the internet through web browsers without the need for additional plugins or software installations. It stands out as a core component of many web-based video conferencing and communication platforms.
 
 
-**分发版本：** 2024.11.10~ynh1
+**分发版本：** 2024.11.23~ynh1
 
 **演示：** <https://meet.no42.org/>
 
