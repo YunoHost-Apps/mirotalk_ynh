@@ -19,7 +19,7 @@ admindoc = "https://docs.mirotalk.com/"
 code = "https://github.com/miroslavpejic85/mirotalk"
 
 [integration]
-yunohost = ">= 11.2.30"
+yunohost = ">= 12.0.8"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
