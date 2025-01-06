@@ -21,7 +21,7 @@ Nie powinno być ono edytowane ręcznie.
 MiroTalk WebRTC is a real-time communication technology that enables audio and video communication over the internet through web browsers without the need for additional plugins or software installations. It stands out as a core component of many web-based video conferencing and communication platforms.
 
 
-**Dostarczona wersja:** 2024.12.29~ynh1
+**Dostarczona wersja:** 2025.01.05~ynh1
 
 **Demo:** <https://meet.no42.org/>
 
