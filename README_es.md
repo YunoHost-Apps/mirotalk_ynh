@@ -3,7 +3,7 @@ Este archivo README esta generado automaticamente<https://github.com/YunoHost/ap
 No se debe editar a mano.
 -->
 
-# MiroTalk para Yunohost
+# MiroTalk para YunoHost
 
 [![Nivel de integración](https://apps.yunohost.org/badge/integration/mirotalk)](https://ci-apps.yunohost.org/ci/apps/mirotalk/)
 ![Estado funcional](https://apps.yunohost.org/badge/state/mirotalk)
@@ -21,7 +21,7 @@ No se debe editar a mano.
 MiroTalk WebRTC is a real-time communication technology that enables audio and video communication over the internet through web browsers without the need for additional plugins or software installations. It stands out as a core component of many web-based video conferencing and communication platforms.
 
 
-**Versión actual:** 2025.03.23~ynh1
+**Versión actual:** 2025.03.30~ynh1
 
 **Demo:** <https://meet.no42.org/>
 
