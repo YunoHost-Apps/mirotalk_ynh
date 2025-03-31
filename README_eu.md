@@ -21,7 +21,7 @@ EZ editatu eskuz.
 MiroTalk WebRTC is a real-time communication technology that enables audio and video communication over the internet through web browsers without the need for additional plugins or software installations. It stands out as a core component of many web-based video conferencing and communication platforms.
 
 
-**Paketatutako bertsioa:** 2025.03.23~ynh1
+**Paketatutako bertsioa:** 2025.03.30~ynh1
 
 **Demoa:** <https://meet.no42.org/>
 
@@ -41,7 +41,7 @@ MiroTalk WebRTC is a real-time communication technology that enables audio and v
 
 Bidali `pull request`a [`testing` abarrera](https://github.com/YunoHost-Apps/mirotalk_ynh/tree/testing).
 
-`testing` abarra probatzeko, ondorengoa egin:
+`testing` abarra probatzeko, honakoa egin:
 
 ```bash
 sudo yunohost app install https://github.com/YunoHost-Apps/mirotalk_ynh/tree/testing --debug
