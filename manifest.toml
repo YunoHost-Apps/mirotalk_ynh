@@ -19,7 +19,7 @@ admindoc = "https://docs.mirotalk.com/"
 code = "https://github.com/miroslavpejic85/mirotalk"
 
 [integration]
-yunohost = ">= 12.0.9"
+yunohost = ">= 12.1.17"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
@@ -57,3 +57,6 @@ ram.runtime = "100M"
     main.url = "/"
 
     [resources.ports]
+
+    [resources.nodejs]
+    version = "22"
