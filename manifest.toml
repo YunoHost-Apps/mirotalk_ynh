@@ -7,7 +7,7 @@ name = "MiroTalk"
 description.en = "Real-Time Video Conferences Up to 8k and 60fps"
 description.fr = "Vidéoconférences en temps réel jusqu'à 8k et 60fps"
 
-version = "2026.07.04~ynh1"
+version = "2026.07.12~ynh1"
 
 maintainers = ["eric_G"]
 
@@ -44,8 +44,8 @@ ram.runtime = "100M"
     [resources.sources]
 
     [resources.sources.main]
-    url = "https://github.com/miroslavpejic85/mirotalk/archive/e3a83a03c67282dbbbeb49adbdc3186b190bf1bf.tar.gz"
-    sha256 = "e68f41d9c3b1bf9fc0f9a1646f7a61805e8122e86653b5a12839fe9fce02113b"
+    url = "https://github.com/miroslavpejic85/mirotalk/archive/de9ade49856a0f2ae57398214b433ac364a7ca5e.tar.gz"
+    sha256 = "7bfd703f088ae870324c9dc664fa99b21767169f51f6b73d6b93d9743c084610"
     autoupdate.upstream = "https://github.com/miroslavpejic85/mirotalk/"
     autoupdate.strategy = "latest_github_commit"
 
